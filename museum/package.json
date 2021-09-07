@@ -1,0 +1,27 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "eclint": "^2.8.1",
+    "express": "^4.17.1",
+    "stylelint-config-airbnb": "0.0.0"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "htmlhintrc": "^1.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/gutashuhart-JSFEPRESCHOOL.git"
+  },
+  "author": "Liza Ukradyga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/gutashuhart-JSFEPRESCHOOL/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/gutashuhart-JSFEPRESCHOOL#readme",
+  "description": ""
+}
